@@ -1,0 +1,2 @@
+# NiskaAI
+Artificial intelligence
