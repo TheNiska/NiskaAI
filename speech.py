@@ -32,6 +32,6 @@ for i in range(len(text_array)):
 		set_obj = findObj(text_array[i+1])
 		elem_obj = findObj(text_array[i-1])
 		if (set_obj != -1) and (elem_obj != -1):
-			print(set_obj.comparison(elem_obj, text_array[i-1]))
+			print(set_obj.isIt(elem_obj.)
 		else:
 			print('Обнаружены неизвестные слова, ответ невозможен')
